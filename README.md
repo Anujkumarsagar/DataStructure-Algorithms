@@ -130,3 +130,15 @@
 - **Understand Concepts**: Focus on understanding the underlying concepts rather than just memorizing algorithms.
 - **Optimize Solutions**: Always look for ways to optimize your solutions for better performance.
 - **Mock Interviews**: Practice mock interviews to improve your problem-solving speed and accuracy under time constraints.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3463-alternating-groups-i](https://github.com/Anujkumarsagar/DataStructure-Algorithms/tree/master/3463-alternating-groups-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3463-alternating-groups-i](https://github.com/Anujkumarsagar/DataStructure-Algorithms/tree/master/3463-alternating-groups-i) |
+<!---LeetCode Topics End-->
